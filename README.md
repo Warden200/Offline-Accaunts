@@ -1,5 +1,6 @@
 <p>!!ИГРАТЬ В АВТОНОМНОМ РЕЖИМЕ!!</p>
 <h1>Battlefield™ 2042</h1>
+<p>Можно приобрести подписку Offline premium</p>
 
 <p>Логин:
 orhanelmas
